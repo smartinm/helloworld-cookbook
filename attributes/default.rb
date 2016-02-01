@@ -1,2 +1,2 @@
 
-default['apache_test']['root_dir'] = '/var/www'
+default['helloworld']['root_dir'] = '/var/www'
