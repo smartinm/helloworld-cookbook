@@ -6,7 +6,7 @@
 
 include_recipe 'apache2::default'
 
-app_dir = "#{node['apache_test']['root_dir']}/helloworld"
+app_dir = "#{node['helloworld']['root_dir']}/helloworld"
 
 directory app_dir do
   action :create
