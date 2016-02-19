@@ -24,3 +24,7 @@ web_app 'helloworld' do
   server_aliases [node['fqdn']]
   docroot app_dir
 end
+
+service 'apache2' do
+  action :restart
+end
