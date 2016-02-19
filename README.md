@@ -1,5 +1,5 @@
 # helloworld
 
-[![Install](https://img.shields.io/badge/concerto-install_cookbook-blue.svg)](https://staging.concerto.io/blueprint/cookbook_upload)
+[![Install](http://staging.concerto.io/cookbook_button.svg)](https://staging.concerto.io/blueprint/cookbook_upload?url=https://github.com/smartinm/helloworld-cookbook)
 
-Simple cookbook to try Concerto install cookbook button.
+Simple cookbook to test the Concerto install cookbook button.
