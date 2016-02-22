@@ -14,7 +14,7 @@ directory app_dir do
 end
 
 file "#{app_dir}/index.html" do
-  content 'Hello World'
+  content node['helloworld']['content']
   action :create
 end
 
