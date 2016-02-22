@@ -9,4 +9,5 @@ version '0.1.0'
 depends 'apache2'
 
 attribute "helloworld/content",
-  :display_name => "Message"
+  :display_name => "Message",
+  :default => "Hello World"
