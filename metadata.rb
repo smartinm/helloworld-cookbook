@@ -1,5 +1,5 @@
 name 'helloworld'
-maintainer 'Sergio Martín'
+maintainer 'Sergio Martin'
 maintainer_email 'smartin@flexiant.com'
 license 'all_rights'
 description 'Installs/Configures helloworld'
